@@ -1,0 +1,13 @@
+{
+    "name": "Welcome to Byte-By-Byte Coding Tutorial Mobile App",
+    "short_name": "Byte-By-Byte Coding Tutorial",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/phpscript/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
